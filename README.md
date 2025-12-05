@@ -1,8 +1,7 @@
 # ai-augmented-architecture
 
-# AI-Augmented Data & Intelligence Architecture
+# The Evolved Data Architecture: From Dashboards to AI-Driven Intelligence
 
-## Architecture Mermaid Diagram
 
 ```mermaid
 flowchart TD
@@ -63,7 +62,8 @@ flowchart TD
     %% END USERS
     P --> R[Executives and Analysts]
     Q --> R
-``` 
+```
+Extending the Classical Data Architecture with AI, ML, and Deep Learning
 
 This architecture is not a replacement for the classical data pipeline — it extends it with AI, ML, and deep-learning components that improve the entire lifecycle of data-driven decision making.
 Rather than adding only generative AI at the end of the process, this enhanced architecture strengthens the foundation by applying intelligence from the moment data enters the system. It uses machine learning to validate data quality, detect anomalies, identify schema drift, discover metadata, and harmonize master data — ensuring that every downstream insight is based on clean, reliable, and trustworthy information.
